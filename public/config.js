@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
-  "VITE_CUSTOM_MENUS": "SnapFAI Agent, https://snapfai.com/snap; Docs, https://docs.snapfai.com/; Affiliate, https://trade.snapfai.com/rewards/affiliate?tab=affiliate",
+  "VITE_CUSTOM_MENUS": "Affiliate, https://trade.snapfai.com/rewards/affiliate?tab=affiliate; SnapFAI Agent, https://snapfai.com/snap; Docs, https://docs.snapfai.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SnapFAI",
   "VITE_DISCORD_URL": "https://discord.gg/7paRU3QUKr",
