@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "An AI-powered Perp Dex",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "Affiliate, https://trade.snapfai.com/rewards/affiliate; SnapFAI Agent, https://snapfai.com/snap; Docs, https://docs.snapfai.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SnapFAI",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, perp, snapfai, defAI",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ko,ja,es,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "6",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "7",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
