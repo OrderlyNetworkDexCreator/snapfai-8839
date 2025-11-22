@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "snapfai",
   "VITE_ORDERLY_BROKER_NAME": "snapfai",
+  "VITE_BROKER_EOA_ADDRESS": "0x12a377514f19af5a626bb6250065673874c708ab",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
-  "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,1,56,900900900",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,5000,1,56,1329,43114,900900900,2818,146,80094,1514,34443,98866,2741",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "cmg5y8mt700h2l20c20cqllir",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "Affiliate, https://trade.snapfai.com/rewards/affiliate; SnapFAI Agent, https://snapfai.com/snap; Docs, https://docs.snapfai.com/",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SnapFAI",
   "VITE_DISCORD_URL": "https://discord.gg/7paRU3QUKr",
@@ -29,10 +31,11 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@SnapFAI",
-  "VITE_SEO_THEME_COLOR": "#ffbf69",
+  "VITE_SEO_THEME_COLOR": "#bfc4cc",
   "VITE_SEO_KEYWORDS": "dex, perp, snapfai, defAI",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ko,ja,es,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "7",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
