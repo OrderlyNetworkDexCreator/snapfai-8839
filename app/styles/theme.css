@@ -12,7 +12,7 @@
   --oui-color-link-light: 230 233 240;
 
   --oui-color-secondary: 191 196 204;
-  --oui-color-tertiary: 10 30 69;
+  --oui-color-tertiary: 150 155 165;
   --oui-color-quaternary: 13 13 13;
 
   --oui-color-danger: 245 97 139;
@@ -27,7 +27,7 @@
 
   --oui-color-warning: 150 155 165;
   --oui-color-warning-light: 191 196 204;
-  --oui-color-warning-darken: 10 30 69;
+  --oui-color-warning-darken: 150 155 165;
   --oui-color-warning-contrast: 0 0 0;
 
   --oui-color-fill: 0 0 0;
